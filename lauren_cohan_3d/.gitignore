@@ -1,0 +1,14 @@
+.venv/
+.validator/
+node_modules/
+__pycache__/
+*.py[cod]
+models/*
+!models/.gitkeep
+output/*
+!output/.gitkeep
+!output/lauren_cohan.glb
+reports/*
+!reports/.gitkeep
+input/*
+!input/.gitkeep
